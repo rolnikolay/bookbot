@@ -1,2 +1,3 @@
 # bookbot
-bookbot is part of the boot.dev course
+bookbot is a project built as part of the boot.dev course
+
