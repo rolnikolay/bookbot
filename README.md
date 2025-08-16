@@ -19,3 +19,11 @@ python3 main.py {path_to_the_book}
 ```
 
 ![run command python3 main.py books/prideandprejudice.txt](public/readme/image.png)
+
+## Notes for future
+
+This is not a fancy CLI tool, rather a quick script to get things done.
+
+In future add some description, --help, maybe some features like show top N characters (like --top, with default 10, otherwise shows all).
+
+Fancy tool.
